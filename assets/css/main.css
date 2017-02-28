@@ -1708,6 +1708,7 @@
 
 		.image.avatar48 {
 			shape-outside: circle(50%);
+			border-radius: 13px 13px 13px 13px;
 			width: 48px;
 			height: 48px;
 			background: #f00;
