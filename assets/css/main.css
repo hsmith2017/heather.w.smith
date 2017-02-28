@@ -1707,6 +1707,7 @@
 		}
 
 		.image.avatar48 {
+			shape-outside: circle(50%)
 			width: 48px;
 			height: 48px;
 			background: #f00;
