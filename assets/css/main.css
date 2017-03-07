@@ -1707,15 +1707,14 @@
 		}
 
 		.image.avatar48 {
-			shape-outside: circle(50%);
-			border-radius: 13px 13px 13px 13px;
+			border-radius: 24px;
 			width: 48px;
 			height: 48px;
 			background: #f00;
 		}
 
 			.image.avatar48 img {
-				shape-outside: circle(50%);
+				border-radius: 24px;
 				width: 48px;
 				height: 48px;
 			}
